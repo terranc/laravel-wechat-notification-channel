@@ -1,5 +1,5 @@
 {
-    "name": "larva/laravel-wechat-notification-channel",
+    "name": "terranc/laravel-wechat-notification-channel",
     "description": "This is a Laravel expansion for the wechat Push.",
     "keywords": [
         "Larva",
